@@ -163,3 +163,5 @@ plt.show()
 This project showcases the construction of a comprehensive K-Means clustering pipeline for gene expression data. It includes data retrieval, preprocessing, model fitting, evaluation, and visualization. The parameter tuning section provides insights into the impact of the number of principal components on clustering performance. The visualizations offer a clear understanding of the clustering results in the context of cancer subtypes.
 
 Last updated on: 2024-02-11
+
+Last updated on: 2024-02-11
